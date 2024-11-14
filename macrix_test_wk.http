@@ -1,0 +1,6 @@
+@macrix_test_wk_HostAddress = http://localhost:5028
+
+GET {{macrix_test_wk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

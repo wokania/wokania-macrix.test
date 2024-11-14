@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\main.6c897166590b0736.js",
+      "PackagePath": "staticwebassets\\main.6c897166590b0736.js"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\polyfills.c7e34d3f242073df.js",
+      "PackagePath": "staticwebassets\\polyfills.c7e34d3f242073df.js"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\runtime.fe3a75fab6275a44.js",
+      "PackagePath": "staticwebassets\\runtime.fe3a75fab6275a44.js"
+    },
+    {
+      "Id": "C:\\Users\\wkania\\macrix_test_wk\\wwwroot\\styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets\\styles.ef46db3751d8e999.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.macrix_test_wk.props",
+      "PackagePath": "build\\macrix_test_wk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.macrix_test_wk.props",
+      "PackagePath": "buildMultiTargeting\\macrix_test_wk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.macrix_test_wk.props",
+      "PackagePath": "buildTransitive\\macrix_test_wk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.macrix_test_wk.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
